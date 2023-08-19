@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michael Geis"
   avatar           : "pfp.jpg"
-  bio              : """Mathematician and data scientist with an appetite for continuous learning through concrete problem solving. I am particularly interested in working with distributed systems/cloud platforms to handle large scale data analysis. \n Previous experience includes the design and deployment of NLP models for multi-label classification and semantic similarity problems."""
+  bio              : """Mathematician and Previous experience includes the design and deployment of NLP models for multi-label classification and semantic similarity problems."""
   location         : "Chicago, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
