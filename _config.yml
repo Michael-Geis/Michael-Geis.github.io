@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michael Geis"
   avatar           : "pfp.jpg"
-  bio              : """Mathematician and Previous experience includes the design and deployment of NLP models for multi-label classification and semantic similarity problems."""
+  bio              : 
   location         : "Chicago, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
