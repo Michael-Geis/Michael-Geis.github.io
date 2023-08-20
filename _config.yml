@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Michael L. Geis"
 title_separator          : "-"
 name                     : &name "Michael Geis"
 description              : &description "Mathematician & Data Scientist"
@@ -114,7 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  location         : "Chicago, IL"
+  location         : # "Chicago, IL"
 
 # Reading Files
 include:
