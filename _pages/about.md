@@ -1,6 +1,6 @@
 ---
-permalink: /about
-title: "About Me"
+permalink: /
+title: "Home"
 excerpt: "About Me"
 author_profile: true
 ---
