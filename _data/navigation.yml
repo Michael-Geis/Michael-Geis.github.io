@@ -3,8 +3,8 @@ main:
   - title: "Selected Projects"
     url: /projects/
 
-  - title: "Resume"
-    url: /resume/
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Resume"
+    url: /resume/
