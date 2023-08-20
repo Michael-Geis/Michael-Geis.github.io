@@ -49,9 +49,9 @@ is embedded in a vector space in such a way that papers pointing 'in the same di
 - We use the [allenai-specter sentence transformer](https://www.kaggle.com/datasets/Cornell-University/arxiv) as our embedding model. This model has been pre-trained on a large corpus of scientific articles specifically for the task of detecting semantic similarity.
 
 ### Unsupervised Topic Modeling
-Additionally, we performed unsupervised topic modeling on our recommendation library using [BERTopic.](https://maartengr.github.io/BERTopic/index.html) BERTopic works by applying the [HDBSCAN.](https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html) clustering algorithm on the embedded articles. A variant of tf-idf is then run on each cluster to extract the common topics present. Here is a picture of the embedding space after applying the [UMAP](https://umap-learn.readthedocs.io/en/latest/) dimension reduction. Keywords for the strongest topic clusters are shown on the right.
+- Additionally, we performed unsupervised topic modeling on our recommendation library using [BERTopic.](https://maartengr.github.io/BERTopic/index.html) BERTopic works by applying the [HDBSCAN.](https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html) clustering algorithm on the embedded articles. A variant of tf-idf is then run on each cluster to extract the common topics present. Here is a picture of the embedding space after applying the [UMAP](https://umap-learn.readthedocs.io/en/latest/) dimension reduction. Keywords for the strongest topic clusters are shown on the right.
 
-![Topic Modeling](topicmodeling.png "Visualization of clusters and corresponding topics")
+![Topic Modeling](/images/topicmodeling.png "Visualization of clusters and corresponding topics after dimension reduction.")
 
 ## Stanford CS229 "Intro to Machine Learning" Personal Notes and Problem Set Solutions
 
