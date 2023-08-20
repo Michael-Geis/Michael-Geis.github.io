@@ -80,14 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Geis"
+  name             : "Contact Me"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Chicago, IL"
+  bio              : # "Your biography for the left-hand sidebar"
+  email            : mailto:michael.leamy.geis@gmail.com
+  linkedin         : "michael-geis-7a024127a"
+  twitter          : "m_leamy_g"
+  github           : "Michael-Geis"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,26 +98,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Michael-Geis"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "michael-geis-7a024127a"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "m_leamy_g"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  location         : "Chicago, IL"
 
 # Reading Files
 include:
