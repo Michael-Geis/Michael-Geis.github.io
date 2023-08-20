@@ -6,12 +6,8 @@ author_profile: true
 
 ## Classifying arXiv Math Publications By Subject
 
-The arXiv ([arxiv.org](https://arxiv.org)) is a large free repository hosting papers across many STEM disciplines. It is common practice for researchers to
-upload their pre-prints to arXiv prior to journal submission. When submitting a paper to the arXiv, authors are required to choose a set of subject tags relevant to their submission.
-(See the full list of subject tags [here](https://arxiv.org/category_taxonomy). The goal of this project is to produce a simple automated suggestion of relevant subject tags based on the title and/or abstract of the upload. The idea is to create a model that excels at detecting relevant cross-disciplenary tags that an author may not think of while submitting their article.
+The ([arXiv](https://arxiv.org)) is a large free repository hosting papers across many STEM disciplines. Below is a model which predicts the relevant subject tags of a math paper based only on its title. The details of the model are explained below.
 
-### Try it Yourself
-Below is a simple UI built with gradio and hosted with huggingface spaces ([Hosted Space](https://huggingface.co/spaces/mlgeis/arxiv-subject-classifier-demo))
 <iframe
     src="https://mlgeis-arxiv-subject-classifier-demo.hf.space"
     frameborder="0"
