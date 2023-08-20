@@ -3,8 +3,8 @@ title: "Selected Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
-  - /projects.html
-  - /projects/
+  - /projects.html/
+  - /projects
 ---
 
 ## Classifying arXiv Math Publications By Subject
