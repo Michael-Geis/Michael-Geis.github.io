@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael L. Geis"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Michael Geis"
 description              : &description "Mathematician & Data Scientist"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact Me"
+  name             : "Michael L. Geis"
   avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : # "Seeking opportunities in the greater Chicago area. Open to both in-person and remote work."
   email            : mailto:michael.leamy.geis@gmail.com
   linkedin         : "michael-geis-7a024127a"
   twitter          : "m_leamy_g"
