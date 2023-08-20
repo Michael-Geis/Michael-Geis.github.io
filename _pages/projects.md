@@ -11,7 +11,7 @@ The [arXiv](https://arxiv.org) is a large free repository hosting papers across 
 <iframe
     src="https://mlgeis-arxiv-subject-classifier-demo.hf.space"
     frameborder="0"
-    width="850"
+    width="830"
     height="800"
 ></iframe>
 
@@ -38,7 +38,7 @@ Below is a content based recommender for arXiv math articles. It returns the 5 m
 <iframe
     src="https://mlgeis-ArXivRecommenderSystem.hf.space"
     frameborder="0"
-    width="850"
+    width="830"
     height="900"
 ></iframe>
 
