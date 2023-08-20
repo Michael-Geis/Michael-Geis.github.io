@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Michael Geis"
 description              : &description "Mathematician & Data Scientist"
