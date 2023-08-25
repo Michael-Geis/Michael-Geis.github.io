@@ -33,6 +33,7 @@ The [arXiv](https://arxiv.org) is a large free repository hosting papers across 
 The huggingface model is an example of a "fine-tuned" model. The transformer model responsible for generating the vector representation of the input text is pretrained, and these weights are not modified. However, the classification head is trained on a dataset consisting of about 40,000 (title,label) pairs. This dataset was extracted from a random sample of 10% of all of the math articles contained in the [full arXiv kaggle dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv)
 
 ## A Nearest-Neighbor Based Recommender System for Math Articles
+<a id="recommender"></a>
 
 Below is a content based recommender for arXiv math articles. It returns the 5 most similar math articles to an input. See below for a discussion of how it works.
 
@@ -55,6 +56,7 @@ is embedded in a vector space in such a way that papers pointing 'in the same di
 ![Topic Modeling](/images/topicmodeling.png "Visualization of clusters and corresponding topics after dimension reduction.")
 
 ## Stanford CS229 "Intro to Machine Learning" Personal Notes and Problem Set Solutions
+<a id="cs229"></a>
 
 The following is a collection of notes and exercises written while following the Stanford CS 229 "Intro to Machine Learning" course. [Full repository of course materials can be found here.](https://github.com/maxim5/cs229-2018-autumn) All lectures are available on [YouTube.](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
