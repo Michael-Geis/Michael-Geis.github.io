@@ -8,14 +8,14 @@ author_profile: true
 
 ## Classifying arXiv Math Publications By Subject
 
-The [arXiv](https://arxiv.org) is a large free repository hosting papers across many STEM disciplines. Below is a model which predicts the relevant subject tags of a math paper based only on its title. The details of the model are explained below.
-
+The [arXiv](https://arxiv.org) is a large free repository hosting papers across many STEM disciplines. This project is multi-label classification model which predicts the relevant subject tags of a math paper based only on its title. The details of model development are explained below.
+<!-- 
 <iframe
     src="https://mlgeis-arxiv-subject-classifier-demo.hf.space"
     frameborder="0"
     width="780"
     height="800"
-></iframe>
+></iframe> -->
 
 ### Inference Pipeline
 
@@ -37,14 +37,14 @@ The huggingface model is an example of a "fine-tuned" model. The transformer mod
 
 ## A Nearest-Neighbor Based Recommender System for Math Articles
 
-Below is a content based recommender for arXiv math articles. It returns the 5 most similar math articles to an input. See below for a discussion of how it works.
-
-<iframe
+This project returns the 5 most similar math articles to a provided article.
+<!-- 
+<!-- <iframe
     src="https://mlgeis-ArXivRecommenderSystem.hf.space"
     frameborder="0"
     width="780"
     height="900"
-></iframe>
+></iframe> --> -->
 
 ### Model Design
 - We start with a chosen library of articles from which we make recommendations. Using their title and abstract, every article
